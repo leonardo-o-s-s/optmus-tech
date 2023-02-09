@@ -1,0 +1,2 @@
+fonte inter
+tamanho: 400 500 600
