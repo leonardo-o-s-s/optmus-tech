@@ -1,2 +1,3 @@
 fonte inter
 tamanho: 400 500 600
+padding 10 18
